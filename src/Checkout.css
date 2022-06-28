@@ -1,0 +1,27 @@
+body{
+background-color:aliceblue;
+}
+.checkout_cart{
+    display: flex;
+    margin-top: 10px;
+    background-color: white;
+    margin-left: 13px;
+    margin-bottom: 15px;
+    width: 70%;
+    padding-bottom: 20px;
+    border-bottom: 1px solid lightgray;
+
+}
+.checkout_title{
+    padding: 20px;
+}
+.checkout{
+    display: flex;
+}
+.checkout_right{
+padding: 15px;
+background-color: white;
+margin-top: 10px;
+margin-left: 15px;
+margin-bottom: 15px;
+}
