@@ -6,7 +6,7 @@ const Home = () => {
     <div className='home'>
         <div className='home_container'>
           <img  className='home_image'
-             src='https://store-images.s-microsoft.com/image/apps.24594.13510798887500496.393115ce-aadd-41b0-a06b-6de8b907aa10.b4898b91-921e-43ef-aedc-8a0e423c95d5?mode=scale&q=90&h=1080&w=1920' alt='image' />
+             src='https://store-images.s-microsoft.com/image/apps.24594.13510798887500496.393115ce-aadd-41b0-a06b-6de8b907aa10.b4898b91-921e-43ef-aedc-8a0e423c95d5?mode=scale&q=90&h=1080&w=1920' alt='logo' />
          <div className='home_row'>
           <Product 
           title="One plus Mobile"
